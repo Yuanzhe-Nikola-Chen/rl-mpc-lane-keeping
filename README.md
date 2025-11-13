@@ -1,3 +1,7 @@
+# 🏭 Industry Context
+
+This project is not affiliated with Mobileye, but it explores planning and control principles commonly evaluated in modern camera-centric ADAS/AV systems, including approaches used by leading companies such as Mobileye, Waymo, Tesla, and NVIDIA. The comparison of MPC and RL under a unified vehicle model mirrors the type of internal benchmarking often performed in real-world autonomous driving research teams.
+
 # RL vs MPC Lane-Keeping Planner
 
 This repository implements a simple autonomous driving lane-keeping scenario
