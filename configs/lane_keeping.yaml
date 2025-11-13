@@ -1,0 +1,14 @@
+# Basic config for lane-keeping env and training
+env:
+  dt: 0.05
+  episode_length: 400
+  desired_speed: 15.0
+
+ppo:
+  lr: 3e-4
+  gamma: 0.99
+  lam: 0.95
+  clip_ratio: 0.2
+  epochs: 10
+  batch_size: 64
+  steps_per_rollout: 4096
